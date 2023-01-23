@@ -1,6 +1,7 @@
 # Projeto de Machine Learning - Risco de defaut
 
 A base de dados foi retirada do Kagle -> https://www.kaggle.com/competitions/home-credit-default-risk/data
+
 Feito em parceria com @leoeiji, @GuilhermeCLN, @gaiogreg
 
 Muitos modelos e diversar técnicas foram utilizadas, mas o que gerou os melhores resultados foram compilados no notebook "final" do nosso projeto.
