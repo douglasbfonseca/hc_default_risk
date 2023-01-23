@@ -1,4 +1,4 @@
-# Projeto de Machine Learning - Risco de defaut
+# Projeto de Machine Learning - Home Credit Defaut Risk
 
 A base de dados foi retirada do Kagle -> https://www.kaggle.com/competitions/home-credit-default-risk/data
 
